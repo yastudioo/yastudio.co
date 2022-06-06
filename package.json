@@ -91,8 +91,8 @@
     "url": "git+https://github.com/yastudioo/yastudio.git"
   },
   "bugs": {
-    "url": "https://github.com/yastudioo/yastudio/issues"
+    "url": "https://github.com/yastudioo/yastudio.co/issues"
   },
-  "homepage": "https://github.com/yastudioo/yastudio#readme",
+  "homepage": "https://github.com/yastudioo/yastudio.co#readme",
   "main": "commitlint.config.js"
 }
