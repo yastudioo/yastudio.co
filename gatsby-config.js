@@ -13,7 +13,7 @@ module.exports = {
     image: `/images/yass_meta_image.jpg`,
     googleSiteVerification:
       process.env.GOOGLE_SITE_VERIFICATION ||
-      'G-NZTBC0L9L7',
+      'G-W76M8ZLQ1C',
     author: {
       name: `yastudio`,
       intro: `انسان غایت زیبایی هاست . یا استادیو عمق زیباییهات رو پیدا می کنه.`,
