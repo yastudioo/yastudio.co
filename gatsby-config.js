@@ -5,7 +5,6 @@ require('dotenv').config({
 })
 
 module.exports = {
-  pathPrefix: '__GATSBY_IPFS_PATH_PREFIX__',
   siteMetadata: {
     title: `Yastudio.co`,
     description: `Yastudio`,
@@ -131,7 +130,7 @@ module.exports = {
       options: {
         trackingId:
           process.env.GOOGLE_ANALYTICS_TRACKING_ID ||
-          'G-NZTBC0L9L7'
+          'G-W76M8ZLQ1C'
       }
     },
     `gatsby-plugin-react-helmet`,
@@ -144,7 +143,6 @@ module.exports = {
     `gatsby-plugin-react-svg`,
     `gatsby-plugin-meta-redirect`,
     `gatsby-plugin-image`,
-    'gatsby-plugin-ipfs',
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
