@@ -9,7 +9,7 @@ module.exports = {
     title: `Yastudio.co`,
     description: `Yastudio`,
     siteUrl: `https://yastudio.co`,
-    image: `images/yass_meta_image.jpg`,
+    image: `./yass_meta_image.jpg`,
     googleSiteVerification:
       process.env.GOOGLE_SITE_VERIFICATION ||
       'G-W76M8ZLQ1C',
