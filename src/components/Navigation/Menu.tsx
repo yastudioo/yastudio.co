@@ -78,7 +78,7 @@ const NavItem = styled.li`
   }
 
   a {
-    font-size: 18px;
+    font-size: 23px;
     font-family: inherit;
     color: ${props => props.theme.colors.medium};
     font-weight: ${props => props.theme.fontWeights.regular};
