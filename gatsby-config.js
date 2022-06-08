@@ -22,7 +22,7 @@ module.exports = {
     social: [
       {name: `Instagram`, socialUrl: `https://instagram.com/yastudio.official`},
       {name: `Twitter`, socialUrl: `https://twitter.com/yasstaheri.nft`},
-      {name: `linkedin`, socialUrl: `https://linkedin.com/yastudio`}
+      {name: `linkedin`, socialUrl: `https://www.linkedin.com/company/yastudio-gathering`}
     ]
   },
   plugins: [
