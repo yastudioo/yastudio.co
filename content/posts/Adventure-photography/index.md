@@ -4,7 +4,7 @@ title: 'Adventure photography 2'
 description: 'Adventure photography'
 date: '2020'
 author: 'Yass Taheri'
-tags: ['Adventure', 'Mountain', 'Gathering', 'Camping']
+tags: ['Adventure', 'Mountain', 'Gathering', 'Camping', 'iran']
 published: true
 commentsUrl: https://github.com/yastudioo/yastudio/issues/631
 featuredImage: './1.jpg'
