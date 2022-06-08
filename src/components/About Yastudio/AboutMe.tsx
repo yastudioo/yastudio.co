@@ -68,7 +68,7 @@ All leading to establishing yastudios at 2019. A place where folks gather to tak
           you can find this site code on GitHub.
         </a>
       </p>
-      <p>
+      <p style="color:#3E7263">
         <a
           href="../../../files/Yass-resume.pdf"
           target="_blank"
