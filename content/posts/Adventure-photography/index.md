@@ -1,6 +1,6 @@
 ---
 id: 'Adventure-photography'
-title: 'Adventure photography'
+title: 'Adventure photography 2'
 description: 'Adventure photography'
 date: '2020'
 author: 'Yass Taheri'
