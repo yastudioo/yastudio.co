@@ -70,7 +70,7 @@ All leading to establishing yastudios at 2019. A place where folks gather to tak
       </p>
       <p style="color:#3E7263">
         <a
-          href="../../../files/Yass-resume.pdf"
+          href="https://www.behance.net/yasstaheri"
           target="_blank"
           rel="noopener noreferrer"
         >
